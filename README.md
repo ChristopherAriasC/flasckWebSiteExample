@@ -10,7 +10,7 @@ esto se puede ejecutar con los siguientes comandos
 ````
 docker build -t myproyect .
 docker run -dp 8080:8088 --name contenedorflask NOBRE_IMAGEN_CREADA   (paso anterior)
-y listo esta expuesto desde docker el proyecto en el puesto 8080 de tu propia maquina.
+y listo esta expuesto desde docker el proyecto en el puerto 8080 de tu propia maquina.
 ````
 
 # comandos para correr from python
