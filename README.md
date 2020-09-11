@@ -16,6 +16,12 @@ y listo esta expuesto desde docker el proyecto en el puesto 8080 de tu propia ma
 # comandos para correr from python
 ````
 cd \venv\Scripts\.\python ..\..\src\index.py
-entramos a  http://localhost:8088 y listo tenemos corriendo el aplicaivo.
+entramos a  http://localhost:8088 y listo tenemos corriendo el aplicativo.
 ````
 
+Tecnologias ocupadas en el proyecto.
+
+Python
+Flask
+HTML5
+Bootstrap
