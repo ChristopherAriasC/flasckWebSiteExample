@@ -21,7 +21,7 @@ entramos a  http://localhost:8088 y listo tenemos corriendo el aplicativo.
 
 Tecnologias ocupadas en el proyecto.
 
-Python
-Flask
-HTML5
-Bootstrap
+Python.
+Flask.
+HTML5.
+Bootstrap.
