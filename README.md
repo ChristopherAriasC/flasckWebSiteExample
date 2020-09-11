@@ -3,8 +3,8 @@
 # Proyecto de ejemplo para desarrollar con python flask 
 # es un proyecto muy basico, con el cual se pude comenza a desarrollar.
 
-Se agrega una vistualizacion de python para poder realizar la ejecucion despues de clonar el repositorio.
-esto se puede ejecutar con los siguientes comando
+Se agrega una virtualizacion de python para poder realizar la ejecucion despues de clonar el repositorio.
+esto se puede ejecutar con los siguientes comandos
 
 ````
 # comandos para docker
